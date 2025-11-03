@@ -3,7 +3,7 @@
 
 ## PLC
 
-#### Rockwell Automation
+### Rockwell Automation
 
 * [Sorting Boxes By Height](https://github.com/aibarr23/Industrial-Automation/tree/main//Sorting_Boxes_ByHeight) Connected Components Workbench (CCW) - Ladder Logic
 
